@@ -7,7 +7,7 @@
   </a>
 </p>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=3323223659&theme=github-compact&hide_border=true&area=true" />
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=orange)
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=green)
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=blue)
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=brightgreen)
+<img src="https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=orange">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=green">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=blue">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=brightgreen">
