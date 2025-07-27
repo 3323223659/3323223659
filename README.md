@@ -11,7 +11,7 @@
 **专业**：计算机科学与技术
 
 [![CSDN博客](https://img.shields.io/badge/CSDN博客-2302_79380280-red?style=flat-square)](https://blog.csdn.net/2302_79380280)
-[![Email](https://img.shields.io/badge/Email-3323223659@qq.com-black?style=flat-square&logo=email)](https://mail.qq.com/)
+[![Email](https://img.shields.io/badge/Email-3323223659@qq.com-white?style=flat-square&logo=email)](https://mail.qq.com/)
 </div>
 <!-- 工具与语言组合展示区 -->
 <div align="center">
