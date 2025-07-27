@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,pycharm,py,vscode,vue" />
+    <img src="https://skillicons.dev/icons?i=idea,java,pycharm,py,vscode,vue,js,html,css" />
   </a>
 </p>
 
@@ -16,10 +16,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3323223659&layout=compact&hide_border=true&langs_count=10">
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=orange">
-<img src="https://komarev.com/ghpvc/?username=wdae&abbreviated=true&color=green">
-<img src="https://komarev.com/ghpvc/?username=wda&color=blue">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=brightgreen">
+
+<img src="https://komarev.com/ghpvc/?username=2302_79380280&label=CSDN&color=orange">
+<img src="https://komarev.com/ghpvc/?username=3323223659@qq.com&label=Email&color=green">
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=3323223659&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
