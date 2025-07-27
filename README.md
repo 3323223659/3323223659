@@ -14,7 +14,7 @@
 <div align="center">
   
   ###  🛠️ 常用工具 &  💻 常用语言
-  <!-- 工具和语言并排展示 -->
+  <!-- 工具并排展示 -->
   <div style="display: flex; justify-content: center; gap: 50px; margin: 30px 0">
     <div>
       <p align="center">
@@ -24,24 +24,12 @@
       </p>
       <p align="center"><b>开发工具链</b></p>
     </div>
-    
-    <div>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,spring,py,js,html,css,vue,mysql,redis" />
-        </a>
-      </p>
-      <p align="center"><b>技术栈</b></p>
-    </div>
-  </div>
-
 </div>
 
-<!-- 工具与语言组合展示区 -->
+<!-- 语言展示区 -->
 <div align="center">
   
-  ###  🛠️ 常用工具 &  💻 常用语言
-  <!-- 工具和语言并排展示 -->
+  <!-- 语言并排展示 -->
   <div style="display: flex; justify-content: center; gap: 50px; margin: 30px 0">
     <div>
       <p align="center">
