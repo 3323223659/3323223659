@@ -56,10 +56,12 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3323223659&layout=compact&hide_border=true&langs_count=8&theme=radical" alt="语言统计" />
     </div>
   </div>
-
-  <h3>🔥 开发活跃度</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3323223659&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="400">
-
+<h2 align="center">🔥 开发活跃度</h2>
+<div style="display: flex; justify-content: center; gap: 30px; margin-top: 20px">
+    <div>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=3323223659&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="400">
+    </div>
+</div>
 </div>
 <!-- 底部波浪区 -->
 <p align="center">
