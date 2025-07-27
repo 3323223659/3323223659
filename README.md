@@ -9,10 +9,9 @@
 ### 🧑💻 基本信息
 **年龄**：20
 **专业**：计算机科学与技术
-**邮箱**：3323223659@qq.com  
 
 [![CSDN博客](https://img.shields.io/badge/CSDN博客-230279380280-red?style=flat-square)](https://blog.csdn.net/2302_79380280)
-[![Email](https://img.shields.io/badge/Email-3323223659@qq.com-black?style=flat-square&logo=github)](https://github.com/3323223659)
+[![Email](https://img.shields.io/badge/Email-3323223659@qq.com-black?style=flat-square&logo=email)](https://github.com/3323223659)
 
 </div>
 
