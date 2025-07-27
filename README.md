@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:00dbde,100:92fe9d&height=300&section=header&text=Welcome%20%20to%20%20my%20%20profile&fontSize=70&fontAlignY=20&desc=构建高性能后端系统%20•%20探索前沿技术&descSize=40&descAlignY=60&animation=twinkling&fontColor=ffffff" />
 </p>
-
 <!-- 个人简介卡片 - 优化显示 -->
 <div align="center">
   
@@ -14,7 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-3323223659@qq.com-black?style=flat-square&logo=email)](https://mail.qq.com/)
 
 </div>
-
 <!-- 工具与语言组合展示区 -->
 <div align="center">
   
@@ -44,7 +42,6 @@
       </p>
     </div>
 </div>
-
 <!-- 核心项目展示 -->
 <h2 align="center">🌟 代表性项目</h2>
 <p align="center">
@@ -55,7 +52,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=3323223659&repo=YClub&theme=dark&show_owner=true" />
   </a>
 </p>
-
 <!-- 语言统计与活跃度组合 -->
 <div align="center">
   
