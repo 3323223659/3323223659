@@ -7,9 +7,9 @@
 
 <h1 align="center">👨‍💻 基本信息</h1>
 
-**年龄**：20
+**计算机科学与技术专业大三在读学生**
 </br>
-**专业**：计算机科学与技术
+**专注于Java为主的后端开发,热爱钻研新技术**
 
 [![CSDN博客](https://img.shields.io/badge/CSDN博客-2302_79380280-red?style=flat-square)](https://blog.csdn.net/2302_79380280)
 [![Email](https://img.shields.io/badge/Email-3323223659@qq.com-blue?style=flat-square&logo=email)](https://mail.qq.com/)
@@ -22,7 +22,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,mysql,mongodb,redis,elasticsearch,git,docker,jenkins,postman" />
+          <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,mysql,mongodb,redis,elasticsearch,rabbitmq,kafka,git,linux,docker,jenkins,postman" />
         </a>
       </p>
     </div>
@@ -35,7 +35,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,py,js,html,css,spring,vue" />
+          <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,spring,vue" />
         </a>
       </p>
     </div>
