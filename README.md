@@ -19,11 +19,12 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
+<h1>杨潇 | Java后端开发工程师</h1>
+<h2>构建高性能后端系统 · 探索前沿技术 · 解决复杂问题</h2>
 
     <div class="container">
         <div class="header">
-            <h1>杨潇 | Java后端开发工程师</h1>
-            <h2>构建高性能后端系统 · 探索前沿技术 · 解决复杂问题</h2>
+    
             <div class="neon-divider"></div>
         </div>
         
