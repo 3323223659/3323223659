@@ -4,9 +4,9 @@
 </p>
 
 <!-- 个人简介卡片 - 优化显示 -->
-<div>
+<div align="center">
   
-### 🧑💻 基本信息
+### 👨‍💻 基本信息
 **年龄**：20
 **专业**：计算机科学与技术
 
@@ -18,19 +18,19 @@
 <!-- 工具与语言组合展示区 -->
 <div align="center">
   
-  ###  🛠️ 开发工具
+  ###  🛠️ 开发工具、框架
   <!-- 工具并排展示 -->
   <div style="display: flex; justify-content: center; gap: 50px; margin: 30px 0">
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,git,github,docker,jenkins,postman" />
+          <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,mysql,redis,git,docker,jenkins,postman" />
         </a>
       </p>
     </div>
 </div>
 
-  ###   💻 常用语言
+  ###   💻 常用语言、框架
 <!-- 语言展示区 -->
 <div align="center">
   
@@ -39,7 +39,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,spring,py,js,html,css,vue,mysql,redis" />
+          <img src="https://skillicons.dev/icons?i=java,py,js,html,css,spring,vue" />
         </a>
       </p>
     </div>
