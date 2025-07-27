@@ -72,5 +72,5 @@
 
 <!-- 底部波浪区 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,50:00dbde,100:00c9ff&height=300&section=footer&text=代码铸就世界、技术创造未来&fontSize=70&fontAlign=50&fontAlignY=70&desc=3323223659@qq.com&descAlign=50&descSize=24&descAlignY=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,50:00dbde,100:00c9ff&height=300&section=footer&text=代码铸就世界、技术创造未来&fontSize=60&fontAlign=50&fontAlignY=70&desc=3323223659@qq.com&descAlign=50&descSize=24&descAlignY=40&animation=twinkling" />
 </p>
