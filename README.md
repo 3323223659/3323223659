@@ -55,9 +55,8 @@
 </div>
 
 <h2 align="center">🔥 开发活跃度</h2>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=3323223659&theme=white&hide_border=true&area=true&bg_color=0D1117" width="400">
  
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=3323223659)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=3323223659&bg_color=ffffff)
 </div>
 <!-- 底部波浪区 -->
 <p align="center">
