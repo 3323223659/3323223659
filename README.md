@@ -43,24 +43,25 @@
 <h2 align="center">🌟 代表性项目</h2>
 <p align="center">
   <a href="https://github.com/3323223659?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3323223659&repo=WeChat-backEnd&theme=dark&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3323223659&repo=WeChat-backEnd&theme=default&show_owner=true" />
   </a>
   <a href="https://github.com/3323223659?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3323223659&repo=YClub&theme=dark&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3323223659&repo=YClub&theme=default&show_owner=true" />
   </a>
 </p>
+
 <h2 align="center">📊 语言使用分布</h2>
-  <!-- 左右分栏布局 -->
-  <div style="display: flex; justify-content: center; gap: 30px; margin-top: 20px">
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3323223659&layout=compact&hide_border=true&langs_count=8&theme=radical" alt="语言统计" />
-    </div>
+<div style="display: flex; justify-content: center; gap: 30px; margin-top: 20px">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3323223659&layout=compact&hide_border=true&langs_count=8&theme=default" alt="语言统计" />
   </div>
+</div>
+
 <h2 align="center">🔥 开发活跃度</h2>
 <div style="display: flex; justify-content: center; gap: 30px; margin-top: 20px">
-    <div>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=3323223659&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="400">
-    </div>
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=3323223659&theme=default&hide_border=true&area=true" width="400">
+  </div>
 </div>
 </div>
 <!-- 底部波浪区 -->
