@@ -8,6 +8,7 @@
 <h1 align="center">👨‍💻 基本信息</h1>
 
 **年龄**：20
+</br>
 **专业**：计算机科学与技术
 
 [![CSDN博客](https://img.shields.io/badge/CSDN博客-2302_79380280-red?style=flat-square)](https://blog.csdn.net/2302_79380280)
