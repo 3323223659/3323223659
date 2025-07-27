@@ -49,7 +49,7 @@
 <h2 align="center">🌟 代表性项目</h2>
 <p align="center">
   <a href="https://github.com/3323223659?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3323223659&repo=SmartHealthTwin&theme=dark&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3323223659&repo=WeChat-backEnd&theme=dark&show_owner=true" />
   </a>
   <a href="https://github.com/3323223659?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=3323223659&repo=YClub&theme=dark&show_owner=true" />
