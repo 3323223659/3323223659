@@ -51,18 +51,10 @@
 </p>
 
 <h2 align="center">📊 语言使用分布</h2>
-<div style="display: flex; justify-content: center; gap: 30px; margin-top: 20px">
-  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3323223659&layout=compact&hide_border=true&langs_count=8&theme=default" alt="语言统计" />
-  </div>
 </div>
 
 <h2 align="center">🔥 开发活跃度</h2>
-<div style="display: flex; justify-content: center; gap: 30px; margin-top: 20px">
-  <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=3323223659&theme=default&hide_border=true&area=true" width="400">
-  </div>
-</div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=3323223659)
 </div>
