@@ -11,8 +11,8 @@
 **专业**：计算机科学与技术
 **邮箱**：3323223659@qq.com  
 
-[![CSDN博客](https://img.shields.io/badge/CSDN博客-230279380280-red?style=flat-square)](https://blog.csdn.net/230279380280)
-[![GitHub](https://img.shields.io/badge/GitHub-3323223659-black?style=flat-square&logo=github)](https://github.com/3323223659)
+[![CSDN博客](https://img.shields.io/badge/CSDN博客-230279380280-red?style=flat-square)](https://blog.csdn.net/2302_79380280)
+[![Email](https://img.shields.io/badge/Email-3323223659@qq.com-black?style=flat-square&logo=github)](https://github.com/3323223659)
 
 </div>
 
