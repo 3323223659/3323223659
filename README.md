@@ -13,7 +13,7 @@
 <!-- 工具与语言组合展示区 -->
 <div align="center">
   
-  ###  🛠️ 常用工具 &  💻 常用语言
+  ###  🛠️ 开发工具
   <!-- 工具并排展示 -->
   <div style="display: flex; justify-content: center; gap: 50px; margin: 30px 0">
     <div>
@@ -22,10 +22,10 @@
           <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,git,github,docker,jenkins,postman" />
         </a>
       </p>
-      <p align="center"><b>开发工具链</b></p>
     </div>
 </div>
 
+  ###   💻 常用语言
 <!-- 语言展示区 -->
 <div align="center">
   
@@ -37,10 +37,8 @@
           <img src="https://skillicons.dev/icons?i=java,spring,py,js,html,css,vue,mysql,redis" />
         </a>
       </p>
-      <p align="center"><b>技术栈</b></p>
     </div>
 </div>
-
 
 <!-- 核心项目展示 -->
 <h2 align="center">🌟 代表性项目</h2>
@@ -74,5 +72,5 @@
 
 <!-- 底部波浪区 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,50:00dbde,100:00c9ff&height=300&section=footer&text=期待合作%20|%20共创未来&fontSize=70&fontAlign=50&fontAlignY=70&desc=3323223659@qq.com%20|%2015918879728&descAlign=50&descSize=24&descAlignY=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,50:00dbde,100:00c9ff&height=300&section=footer&text=期待合作%20|%20共创未来&fontSize=70&fontAlign=50&fontAlignY=70&desc=3323223659@qq.com&descAlign=50&descSize=24&descAlignY=40&animation=twinkling" />
 </p>
