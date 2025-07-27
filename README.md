@@ -1,6 +1,6 @@
 <!-- 顶部波浪欢迎区 - 修正中文显示问题 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:00dbde,100:92fe9d&height=250&section=header&text=杨潇%20|%20Java后端开发&fontSize=70&fontAlignY=40&desc=构建高性能系统%20•%20探索前沿技术&descSize=20&descAlignY=70&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:00dbde,100:92fe9d&height=250&section=header&text=Welcometomyprofile&fontSize=70&fontAlignY=40&desc=构建高性能系统%20•%20探索前沿技术&descSize=20&descAlignY=70&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <!-- 个人简介卡片 - 优化显示 -->
