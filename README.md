@@ -5,7 +5,7 @@
 <!-- 个人简介卡片 - 优化显示 -->
 <div align="center">
 
-<h2 align="center">👨‍💻 基本信息</h2>
+<h1 align="center">👨‍💻 基本信息</h1>
 
 **年龄**：20
 **专业**：计算机科学与技术
@@ -26,7 +26,7 @@
       </p>
     </div>
 </div>
-<h2 align="center">💻 常用语言、框架</h2>
+<h1 align="center">💻 常用语言、框架</h1>
 <!-- 语言展示区 -->
 <div align="center">
  <!-- 语言并排展示 -->
@@ -40,7 +40,7 @@
     </div>
 </div>
 <!-- 核心项目展示 -->
-<h2 align="center">🌟 代表性项目</h2>
+<h1 align="center">🌟 代表性项目</h1>
 <p align="center">
   <a href="https://github.com/3323223659?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=3323223659&repo=WeChat-backEnd&theme=default&show_owner=true" />
@@ -50,11 +50,11 @@
   </a>
 </p>
 
-<h2 align="center">📊 语言使用分布</h2>
+<h1 align="center">📊 语言使用分布</h1>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3323223659&layout=compact&hide_border=true&langs_count=8&theme=default" alt="语言统计" />
 </div>
 
-<h2 align="center">🔥 开发活跃度</h2>
+<h1 align="center">🔥 开发活跃度</h1>
  
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=3323223659&bg_color=ffffff)
 </div>
