@@ -15,7 +15,7 @@
 </div>
 <!-- 工具与语言组合展示区 -->
 <div align="center">
-<h2 align="center">🛠️ 开发工具、技术</h2>
+<h1 align="center">🛠️ 开发工具、技术</h1>
   <!-- 工具并排展示 -->
   <div style="display: flex; justify-content: center; gap: 50px; margin: 30px 0">
     <div>
