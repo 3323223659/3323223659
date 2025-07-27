@@ -4,8 +4,8 @@
 </p>
 
 <!-- 个人简介卡片 - 优化显示 -->
-<div align="center">
-
+<div>
+  
 ### 🧑💻 基本信息
 **年龄**：20
 **专业**：计算机科学与技术
@@ -65,11 +65,6 @@
     <div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3323223659&layout=compact&hide_border=true&langs_count=8&theme=radical" alt="语言统计" />
       <p><b>语言使用分布</b></p>
-    </div>
-    
-    <div>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=3323223659&theme=react-dark&hide_border=true&area=true" alt="编码活跃度" />
-      <p><b>开发活跃度</b></p>
     </div>
   </div>
 
